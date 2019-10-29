@@ -9,3 +9,8 @@ pg_ctl -D /usr/local/var/postgres start
 ```
 pg_ctl -D /usr/local/var/postgres stop
 ```
+
+#### Login as user student and check db sparkifydb
+```
+psql sparkifydb -U student
+```
