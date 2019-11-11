@@ -1,4 +1,4 @@
-### Commends
+### Commands
 
 #### Start PostgreSQL server
 ```
